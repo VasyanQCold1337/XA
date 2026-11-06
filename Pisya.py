@@ -1,1 +1,2 @@
-local ХА
+print(eval(input()))
+#XAXAXAXAXAXA
